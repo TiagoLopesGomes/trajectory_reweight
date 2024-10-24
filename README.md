@@ -31,7 +31,8 @@ Additional software:
 - Pepsi-SAXS (for SAXS calculations)
 
 Note:
-- The BME.py is provided in the repository for importing BME functions.
+- The BME.py and BME_tools.py are provided in the repository for importing BME functions 
+and retrieved from https://github.com/KULL-Centre/BME
 
 ## Usage
 
